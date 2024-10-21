@@ -14,3 +14,4 @@ Este repositório foi criado com o propósito de descrever e informar sobre o ti
 
 1. Optamos por utilizar a base de dados relacional;
 2. Optamos por utilizar o Postgres por ser gratuito e iria ajudar nos custos das filiais;
+
